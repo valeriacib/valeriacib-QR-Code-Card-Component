@@ -1,0 +1,1 @@
+# valeriacib-QR-Code-Card-Component
